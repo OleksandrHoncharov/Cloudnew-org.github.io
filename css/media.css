@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {
+	.top-menu__list {
+		display: none;
+	}
+	.btn-menu {
+		display: block;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+
+}
